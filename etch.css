@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 0 50px 0;
+    font-family: sans-serif;
+}
+
+#container {
+    width: 600px;
+    height: 600px;
+    margin: auto; 
+    display: grid;
+}
+
+.container-box {
+    border: 1px solid black;
+}
